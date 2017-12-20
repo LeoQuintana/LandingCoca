@@ -10,11 +10,14 @@
 			margin-top: 0.5%;
 		}
 		.arriba{
-			background-color: rgba(255,0,0,0.5);
+			background-image: url("http://www.openads.es/wp-content/uploads/2007/12/coca-cola.jpg");
 			padding: 0.2%;
 			margin-top: 1%;
 			height: 190px;
 			border-radius: 8px;
+			background-position-x: 16%;
+            background-position-y: 75%;
+            opacity: 0.9;
 		}
 		body{
 			background-color: black;
