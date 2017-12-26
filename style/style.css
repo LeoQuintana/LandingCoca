@@ -97,4 +97,9 @@
 		}
 		.contact{
 			background-color: blue;
+		    border-radius: 8px;
+			height: 10%;
 		}
+		.contact:hover {
+			background-color: #4CAF50; /* Green */
+			color: white;
