@@ -95,3 +95,13 @@
 			width: 90px;
 			margin-left: 0,7%;
 		}
+		.contact{
+		    border-radius: 8px;
+			height: 10%;
+			background-color: #ffffff;
+		}
+
+		.contact:hover {
+			background-color: #4CAF50; /* Green */
+			color: white;
+		}
