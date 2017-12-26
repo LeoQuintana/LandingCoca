@@ -1,13 +1,7 @@
 		nav{
 			background-color: rgba(255,0,0,0.5);
-			padding: 0.5%;
+			padding: 1%;
 			border-radius: 7px;
-		}
-		button{
-			margin-left: 86%;
-			width: 11%;
-			position: absolute;
-			margin-top: 0.5%;
 		}
 		.arriba{
 			background-image: url("http://www.openads.es/wp-content/uploads/2007/12/coca-cola.jpg");
@@ -96,9 +90,13 @@
 			margin-left: 0,7%;
 		}
 		.contact{
-			background-color: blue;
+			background-color: white;
 		    border-radius: 8px;
-			height: 10%;
+			height: 5%;
+			margin-left: 86%;
+			width: 11%;
+			position: absolute;
+			margin-top: 0.12%;
 		}
 		.contact:hover {
 			background-color: #4CAF50; /* Green */
